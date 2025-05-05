@@ -283,6 +283,7 @@ adlog
 adlogger
 adm
 ADM
+ADmIN
 admin
 Admin
 ADMIN
