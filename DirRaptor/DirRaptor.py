@@ -75,4 +75,4 @@ if __name__ == "__main__":
         thread.join()
 
     progress_bar.close()
-    print("\n[✓] Scanning complete.")
+    print("\n[✓] Scanning completed successfully.")
