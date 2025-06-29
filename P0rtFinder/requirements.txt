@@ -1,0 +1,11 @@
+aiohttp
+aioconsole
+asyncio
+argparse
+datetime
+requests
+tqdm
+python-nmap
+beautifulsoup4
+lxml
+pyfiglet
