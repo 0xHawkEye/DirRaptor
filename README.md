@@ -1,5 +1,13 @@
 # DirRaptor 🦖
 
+[![License: MIT](https://img.shields.io/github/license/AyushKr41/DirRaptor?cacheSeconds=60)](https://github.com/AyushKr41/DirRaptor/blob/main/LICENSE)
+![Issues](https://img.shields.io/github/issues/AyushKr41/DirRaptor?cacheSeconds=60)
+![Forks](https://img.shields.io/github/forks/AyushKr41/DirRaptor?cacheSeconds=60)
+![Stars](https://img.shields.io/github/stars/AyushKr41/DirRaptor?cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/DirRaptor?cacheSeconds=60)
+![Python](https://img.shields.io/badge/Made%20with-Python-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 **DirRaptor** is a high-speed, multithreaded directory brute-forcer designed for penetration testing and security research. It helps security professionals and researchers discover hidden directories and files on a web server using a specified wordlist. The tool supports real-time progress updates, handles retries on failure, and allows for customizable configuration through command-line arguments.
 
 ---
