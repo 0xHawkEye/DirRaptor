@@ -135,18 +135,36 @@ https://example.com/private (403)
 
 ---
 
-## 🧑‍💻 Contributing
-If you'd like to contribute to DirRaptor, feel free to fork the repository, make changes, and submit a pull request.
+## **⚖️ Legal Considerations**
+**DirRaptor** is intended for educational and authorized penetration testing purposes only.
+
+By using this tool, you agree to the following:
+
+✅ You will not use **DirRaptor** to scan, probe, or interact with Domain without explicit permission from the owner.
+
+✅ You are solely responsible for any misuse or unauthorized activity performed using this tool.
+
+✅ The developer is not liable for any damage, legal consequences, or misuse resulting from the use of this tool.
+
+>❗ Always obtain proper authorization before scanning or enumerating directories on any domain.
+
+>This tool is intended for educational and authorized testing purposes only.
+
+---
+## **📄 License**
+This project is licensed under the MIT License.
+
+---
+## **🛡️ Ethical Usage**
+- Use in lab environments, CTFs, bug bounty, or client-approved pentests.
+- Respect all terms of service and network usage policies.
+---
+## **🤝 Contributing**
+Contributions are welcome! Feel free to submit pull requests or open issues to enhance the tool. Your feedback and contributions help improve DirRaptor.
 
 ---
 
-## ✨ Credits
-- **tqdm**: For the real-time progress bar.
-- **requests**: For making the HTTP requests.
+## **🙌 Credits**
 
----
-
-## 💬 Contact
-For questions, suggestions, or issues, feel free to open an issue or reach out via **`rajayush4422@gmail.com`**.
-
-___
+    Developed by: Ayush Kumar
+    Linkedin: https://www.linkedin.com/in/ayush-kumar-ak4422 
