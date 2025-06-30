@@ -1,10 +1,10 @@
 # DirRaptor 🦖
 
-[![License: MIT](https://img.shields.io/github/license/AyushKr41/DirRaptor?cacheSeconds=60)](https://github.com/AyushKr41/DirRaptor/blob/main/LICENSE)
-![Issues](https://img.shields.io/github/issues/AyushKr41/DirRaptor?cacheSeconds=60)
-![Forks](https://img.shields.io/github/forks/AyushKr41/DirRaptor?cacheSeconds=60)
-![Stars](https://img.shields.io/github/stars/AyushKr41/DirRaptor?cacheSeconds=60)
-![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/DirRaptor?cacheSeconds=60)
+[![License: MIT](https://img.shields.io/github/license/0xHawkEye/DirRaptor?cacheSeconds=60)](https://github.com/0xHawkEye/DirRaptor/blob/main/LICENSE)
+![Issues](https://img.shields.io/github/issues/0xHawkEye/DirRaptor?cacheSeconds=60)
+![Forks](https://img.shields.io/github/forks/0xHawkEye/DirRaptor?cacheSeconds=60)
+![Stars](https://img.shields.io/github/stars/0xHawkEye/DirRaptor?cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/0xHawkEye/DirRaptor?cacheSeconds=60)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -38,7 +38,7 @@
 To get started with **DirRaptor**, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/AyushKr41/DirRaptor.git
+git clone https://github.com/0xHawkEye/DirRaptor.git
 cd DirRaptor
 ```
 ### 2. **Install Dependencies**
